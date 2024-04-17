@@ -1,0 +1,14 @@
+C:\Users\plibi\source\repos\Assignment5C#\Assignment5C#\bin\Debug\net6.0\Assignment5C#.exe
+C:\Users\plibi\source\repos\Assignment5C#\Assignment5C#\bin\Debug\net6.0\Assignment5C#.deps.json
+C:\Users\plibi\source\repos\Assignment5C#\Assignment5C#\bin\Debug\net6.0\Assignment5C#.runtimeconfig.json
+C:\Users\plibi\source\repos\Assignment5C#\Assignment5C#\bin\Debug\net6.0\Assignment5C#.dll
+C:\Users\plibi\source\repos\Assignment5C#\Assignment5C#\bin\Debug\net6.0\Assignment5C#.pdb
+C:\Users\plibi\source\repos\Assignment5C#\Assignment5C#\obj\Debug\net6.0\Assignment5C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plibi\source\repos\Assignment5C#\Assignment5C#\obj\Debug\net6.0\Assignment5C#.AssemblyInfoInputs.cache
+C:\Users\plibi\source\repos\Assignment5C#\Assignment5C#\obj\Debug\net6.0\Assignment5C#.AssemblyInfo.cs
+C:\Users\plibi\source\repos\Assignment5C#\Assignment5C#\obj\Debug\net6.0\Assignment5C#.csproj.CoreCompileInputs.cache
+C:\Users\plibi\source\repos\Assignment5C#\Assignment5C#\obj\Debug\net6.0\Assignment5C#.dll
+C:\Users\plibi\source\repos\Assignment5C#\Assignment5C#\obj\Debug\net6.0\refint\Assignment5C#.dll
+C:\Users\plibi\source\repos\Assignment5C#\Assignment5C#\obj\Debug\net6.0\Assignment5C#.pdb
+C:\Users\plibi\source\repos\Assignment5C#\Assignment5C#\obj\Debug\net6.0\Assignment5C#.genruntimeconfig.cache
+C:\Users\plibi\source\repos\Assignment5C#\Assignment5C#\obj\Debug\net6.0\ref\Assignment5C#.dll
